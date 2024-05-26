@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python run_experiment.py --model_id gpt2-small --triplet_path ./triplets --ent_path ./entities --iter_num 100
